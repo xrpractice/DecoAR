@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5320949763591960095
+  m_GuidHigh: 7464895768266465983
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5089175145036386409
+      m_GuidHigh: 1099227433861382305
+    m_SerializedTextureGuid:
+      m_GuidLow: 16462293286880831251
+      m_GuidHigh: 7398524044941403371
+    m_Size: {x: 0.1, y: 0.14145161}
+    m_SpecifySize: 1
+    m_Name: SpacesTown
+    m_Texture: {fileID: 2800000, guid: 00d46713d086e475eb24eb786bd6ac66, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4957475396833015516
+      m_GuidHigh: 56675401719408015
+    m_SerializedTextureGuid:
+      m_GuidLow: 4910927158751013949
+      m_GuidHigh: 17725861887336372619
+    m_Size: {x: 0.1, y: 0.10011124}
+    m_SpecifySize: 1
+    m_Name: Earth
+    m_Texture: {fileID: 2800000, guid: 4f2c2c3d1e3b44278bd9518c78e9fef5, type: 3}
