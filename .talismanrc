@@ -1,0 +1,712 @@
+fileignoreconfig:
+- filename: Assets/FourEvilDragonsHP/Animations/DragonNightMare.meta
+  checksum: 77e5c26b85625c9f7179d0fdf2314f5f8c9e98b6f5e3070b6bd3b16aac1571c3
+- filename: Assets/FourEvilDragonsHP.meta
+  checksum: d329a33bb27e1ce9e16a2b8373167d443022c82e4cc259a17cbab29c69c84860
+- filename: Assets/FourEvilDragonsHP/Animations.meta
+  checksum: e15c61f9dbdeef8d46c415248ab565ddb828128c995efd27a9dbc0a66aa6a527
+- filename: Assets/FourEvilDragonsHP/Animations/DragonNightMare/Jump.fbx.meta
+  checksum: fabdfdc57d270a0cd72201db87d311e8def3d0095ef790a7596aa87214a5c73e
+- filename: Assets/FourEvilDragonsHP/Animations/DragonNightMare/Basic Attack.fbx.meta
+  checksum: 85b51bae78438266fc07f63369ba97f1abf407daac921eba06b7638bbad355dd
+- filename: Assets/FourEvilDragonsHP/Animations/DragonNightMare/Claw Attack.fbx.meta
+  checksum: 0d55ac91eb9b14c4cb34ad4948e4d9f7f4ea9415f8825460e96eeb17c0ac5cad
+- filename: Assets/FourEvilDragonsHP/Animations/DragonNightMare/Horn Attack.fbx.meta
+  checksum: ff2ed3a1d6c80d20b730e822e799dba02710e8d70d6d405bd70fbbcb64bbad27
+- filename: Assets/FourEvilDragonsHP/Animations/DragonNightMare/getHit.fbx.meta
+  checksum: 5314477e2d57285b8a0a9a902e2cc7faf0617910d525441158fe93ae61ad9269
+- filename: Assets/FourEvilDragonsHP/Animations/DragonNightMare/Sleep.fbx.meta
+  checksum: fd46065615b5af97f0eed404579d8c3de0021a99f863496129021b66e6059479
+- filename: Assets/FourEvilDragonsHP/Animations/DragonNightMare/defend.fbx.meta
+  checksum: b5d82b31c8dec434353087f72c09d91e6b526af5a883a95fd1a4d708ac1c1cec
+- filename: Assets/FourEvilDragonsHP/Animations/DragonNightMare/die.fbx.meta
+  checksum: 253395387f6867519cf6705a2f125000b81dd56657a0b8431c8a9e068782302b
+- filename: Assets/FourEvilDragonsHP/Animations/DragonSoulEater/Idle.fbx.meta
+  checksum: aad5f6e118232ef49033d29c8699367f392b62bd317ad602c5ffdc27cd1a282c
+- filename: Assets/FourEvilDragonsHP/Animations/DragonSoulEater/Fly Forward.fbx.meta
+  checksum: a2bf8da101ff877fcea0351e8451634166e2fbbd9635487fb5a15d7ce6029552
+- filename: Assets/FourEvilDragonsHP/Animations/DragonSoulEater/Fly Glide.fbx.meta
+  checksum: dd39443569ae493b929e5ad61ee47fd2440eb2a6bc61a83d7753f0275c252553
+- filename: Assets/FourEvilDragonsHP/Animations/DragonSoulEater/Fly Float.fbx.meta
+  checksum: c74b3fa8904cf73ebd55080384dfb91b53ea1625ce234a0089a8ef59fd400b0c
+- filename: Assets/FourEvilDragonsHP/Animations/DragonSoulEater/Get Hit.fbx.meta
+  checksum: 982a45c1802a335c3d8a8c3184935676845ae606f15a0a14cc7bb9aff7268bb9
+- filename: Assets/FourEvilDragonsHP/Animations/DragonNightMare/idle02.fbx.meta
+  checksum: e5541ab3add7a2feba414f04b084123f8b5981eaf7fca49e9efaf426158d7856
+- filename: Assets/FourEvilDragonsHP/Animations/DragonSoulEater.meta
+  checksum: e03cd0b51dda940c23bdf11c1e5b79828fba39e6f3a230fbcbb5ec042cc1c1aa
+- filename: Assets/FourEvilDragonsHP/Animations/DragonSoulEater/Die.fbx.meta
+  checksum: 704d10fc06f600130e02fbd5c22b4ac33f72388a29c9d2937edb828c5863c4f8
+- filename: Assets/FourEvilDragonsHP/Animations/DragonSoulEater/Fireball Shoot.fbx.meta
+  checksum: 2469578f938a7fac220e38f56534901589e8cc9de0cf53d71f5310172765b938
+- filename: Assets/FourEvilDragonsHP/Animations/DragonSoulEater/Defend.fbx.meta
+  checksum: b13dd700ee5ce22754b1badfab713388c78937e468f7ce6584f1ce01c7da0986
+- filename: Assets/FourEvilDragonsHP/Animations/DragonNightMare/walk.fbx.meta
+  checksum: dd497760496d0512200f356eae21a6ef10bb33ec119638ba9cd9af28942f0da6
+- filename: Assets/FourEvilDragonsHP/Animations/DragonNightMare/run.fbx.meta
+  checksum: 1a539e6fe8adc8070d90bf0dfc22d240aaf2be4aa103b8a0dcefdf4001c823c3
+- filename: Assets/FourEvilDragonsHP/Animations/DragonSoulEater/Fly Fireball Shoot.fbx.meta
+  checksum: 14dc17db8909b3125143d3ff6a5a9b8bd983cb734699afe1a404fd33d58d98f4
+- filename: Assets/FourEvilDragonsHP/Animations/DragonNightMare/idle01.fbx.meta
+  checksum: 9434596017b59d24e354f9d2e62913fecd6f77ccdaf0a5db003ff0eb6adda03f
+- filename: Assets/FourEvilDragonsHP/Animations/DragonSoulEater/Basic Attack.fbx.meta
+  checksum: 549992e27ab243b4e8efdf32f17e15c3d18baa97a0751de16d4d156a16f06e92
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer/FlyIdle.fbx.meta
+  checksum: 97d1729832c9e56ea702dd5deab536153ba3ef10bee26ceae2487cd6e8f43930
+- filename: Assets/FourEvilDragonsHP/Animations/DragonNightMare/scream.fbx.meta
+  checksum: 84054f63fbd9084c4a0f8c34a8fc0973759b2b9c6a387edde327a2a34ce2ca1c
+- filename: Assets/FourEvilDragonsHP/Animations/DragonNightMare/walkRight.fbx.meta
+  checksum: e76b54033fee67e9943efe497c5903b7bf21b0840fd5b55389756550eb8b0c36
+- filename: Assets/FourEvilDragonsHP/Animations/DragonNightMare/walkBack.fbx.meta
+  checksum: 32ab18a18ea7f243a26940eda1c54dd4a7110729f58eaea49c79c8c592c4df9e
+- filename: Assets/FourEvilDragonsHP/Animations/DragonSoulEater/Land.fbx.meta
+  checksum: 0339f48a857ee203c48685315ce38cb22702f4da0ef57714a71c3cbaaad6cca0
+- filename: Assets/FourEvilDragonsHP/Animations/DragonNightMare/walkLeft.fbx.meta
+  checksum: 98d6d1c5900e7cf9926924a85991a8973004105ee7243384000e850663d5a42d
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer.meta
+  checksum: a37429ab081f4e2a5aeb18f08cf2cf7fbcf978d0b6ac7b376aaa8788de015a4e
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer/AttackWingClaw.fbx.meta
+  checksum: 1fd642cd2bb4881c2e9d5abb9c8ecb78c33db604f26664d66d408f8f3ade2c64
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer/TakeOff.fbx.meta
+  checksum: 886c520ebdf9cc5285614c5540ee59a11102a17cbe53c160d81dfdda0b71a790
+- filename: Assets/FourEvilDragonsHP/Animations/DragonSoulEater/Run.fbx.meta
+  checksum: ca5b683124fb4b96caa17e2a6d982f8be654b619f7274695642d6b01c85c0367
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper/attackMouth.fbx.meta
+  checksum: 3742e0d21902e62d5e41c1083832ab163b33d4a8db7557d6ddd4f5804ce962c3
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer/sleep.fbx.meta
+  checksum: ee69306fa1ea87b5f73baebe89d4fb7f9e103fbbcf1befec625aa61916342292
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer/Basic Attack.fbx.meta
+  checksum: d4e84281797b6a99e6e4a34a07f09cf5ddd715f07ce7045cbad4f7cb66da8c88
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer/GetHit.fbx.meta
+  checksum: ec752151b530c9ce840edd68bdaa9d41389c80f533120ea84716b28f8df97f1e
+- filename: Assets/FourEvilDragonsHP/Animations/DragonSoulEater/Walk.fbx.meta
+  checksum: 9779482386a68576bab0829a37f54f7ba653fff868cd619bd8364d590931b4bb
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper/FlyIdle.fbx.meta
+  checksum: 39fc7b21430d3b01316c80cea24a813d830ea1435707e4b2e17c0e9d0d7b9cbc
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer/Defend.fbx.meta
+  checksum: 12c47c908164bb882505ee3d4e210fb6ffbefac035968f596d11f1854ac1bf40
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer/die.fbx.meta
+  checksum: 7f4bbac0b625867f867c24c48eaa533157ed8a38b6a345ccc2ef6e3f369bd200
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper.meta
+  checksum: 5320f67b46fa052080333a71f03ade8d4510a42620b40df5403323e52a78d69b
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper/FlyFlame.fbx.meta
+  checksum: 124a289b01243ddbc84c87f5153f30ea0507074bdb7c9dd8c795aae47e7d59eb
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper/Die.fbx.meta
+  checksum: eae70cc3f8feef4f6159fcbd4bffc2db4e1f669f98e5ebe60e6d1975fc144746
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer/idle01.fbx.meta
+  checksum: 1548978dfe500d8ade039aca7674ab674a7db0cca83258b2b5e132a94e48eb25
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer/Landing.fbx.meta
+  checksum: 046c744c4451ac7ff6f284ae4126dfa63a1e3ce36b4f84ea1f935c86ca6714c0
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer/idle02.fbx.meta
+  checksum: 5ddab35be9d1666e1432c582b35055231dd5c32388250b25a6d11f93a1b08d22
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer/walk.fbx.meta
+  checksum: 6ec7367bfda83ce811670e5b91a14e3ea4d994d9693d05895c5e1dd396db6edf
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer/FlyForward.fbx.meta
+  checksum: 3c5b037ab3f74125de8d88049f64c26085e992fc67da36e7f798e778908dd917
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer/Run.fbx.meta
+  checksum: 0d461bad6e13d0f7408e1dafa678b2367427415d123dbd89046843dabd11a4af
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer/Flame Attack.fbx.meta
+  checksum: d970f2f38123690cda4e4df0fdb571a062905e980eff835ed31796222d8610ae
+- filename: Assets/FourEvilDragonsHP/Animations/DragonSoulEater/Scream.fbx.meta
+  checksum: 1a2dc8cd54a9c58825edb14aa1a305b8f48567077b5ae5c5a98b522c264d8cf3
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper/Defend.fbx.meta
+  checksum: 916067c14f8a3ee6dfc8e3dd7617f54e858c216ee6e0a01033126048f4821951
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper/Run.fbx.meta
+  checksum: 08f5e2027a8156bbe9d4236c923b230377b7f7c91d98fdded986022706a8ca6f
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper/Land.fbx.meta
+  checksum: 3c0fc44a4d6991815e5eced029f00678452c746ba3511a2402a890a24629d0f8
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper/Scream.fbx.meta
+  checksum: 82a587440bcfc8b788794d0fc74a2204b75f3f58d5128b6f930cd8169412e93f
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer/FlyGlide.fbx.meta
+  checksum: d581849c6d3b9629e419aa30e3eee2d90d732b6b94c7f949ccd778f03ecd9f00
+- filename: Assets/FourEvilDragonsHP/Animations/DragonSoulEater/Sleeping.fbx.meta
+  checksum: 08e56606e0595c79e64f6cbbf1589c5aa1eb4c32030da583a8301ed03bfc70de
+- filename: Assets/FourEvilDragonsHP/Materials/DragonTerrorBringer/RedHP.mat
+  checksum: bfbef62f5abe12aa312b39449ee634f60cfa5358e7584f92a8ac03de44ed4b23
+- filename: Assets/FourEvilDragonsHP/Materials/Skybox_Mat.mat.meta
+  checksum: 5b91e1c9b983948157b97f33a92e378c293ec76fb79e489c9867938a4e61162e
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonNightmare/Albino.prefab.meta
+  checksum: 336b1001dcea9d4dab8095095167121c8c7c13df67db1ceff864a0f82949a5e4
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer/FlyAttack.fbx.meta
+  checksum: 8006d5ba62027005042651069be6dc094fb76ee20a3387f4323086d1d27e1dab
+- filename: Assets/FourEvilDragonsHP/Materials/DragonTerrorBringer/RedHP.mat.meta
+  checksum: 96ecad7104394aa2192cbc746b1e57982a1ac08b16aa732c50b518618f9e710e
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper/attackFlame.fbx.meta
+  checksum: 7cc817572cc304d5a82818908815dc89b7fb37d2d2129cc33be93027fccf9923
+- filename: Assets/FourEvilDragonsHP/Materials/DragonUsurper.meta
+  checksum: e73032ede19ba93c70e7b3c277a0eb4f336d5e700014352681f9147f67af382c
+- filename: Assets/FourEvilDragonsHP/Animations/DragonTerrorBringer/scream.fbx.meta
+  checksum: 2e5e68c21794f02526d5a2fb88c06d912ecbd810d9f45b43bd4352d1fb32b1da
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper/Walk.fbx.meta
+  checksum: 7ede2b8f629b3e8898b87bb4c7692be17cd8b0ac7df3dc4dba13b152116633e4
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper/getHit.fbx.meta
+  checksum: 89ff02d845edef3ee8cd4810c59199e42e28417f0d1189b48239c71765824266
+- filename: Assets/FourEvilDragonsHP/Animations/DragonSoulEater/Tail Attack.fbx.meta
+  checksum: e80b673a696304e8da513c4e9d620729aee28fba858a2f7434db9bdb791b36d2
+- filename: Assets/FourEvilDragonsHP/Materials/DragonUsurper/PurpleHP.mat
+  checksum: 628285f8cedc3ca3f8bc06bb7837e31d1b8c39800ea87f451ecd3c06813da984
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper/FlyGlide.fbx.meta
+  checksum: cc70404a46acf30ed266ba49148c383bbed34664024a7f4b92c330fd4a920e46
+- filename: Assets/FourEvilDragonsHP/Materials/DragonUsurper/BlueHP.mat.meta
+  checksum: c516b562a07bf4453b56f7d7a3f944963ebe1e2ce56988abad486e3bbe79f48c
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper/attackHand.fbx.meta
+  checksum: 8b72ee6d084713e6555baa31c2f5ea0a137261b63c0c1f647f56163d12f4ecee
+- filename: Assets/FourEvilDragonsHP/Animators.meta
+  checksum: 2a97e6e347f64ef549c17450fa1cf53097f4a828236626f8a946371669334622
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper/idle01.fbx.meta
+  checksum: e4bf18a5673433061dbd71c9e87c085bfed3246f314d415671af4fda5f770bcb
+- filename: Assets/FourEvilDragonsHP/Materials/DragonUsurper/GreenHP.mat
+  checksum: 0af62abea1975299802c38477bdabd223d44a64591157958576ee04edf95c603
+- filename: Assets/FourEvilDragonsHP/Prefab.meta
+  checksum: 9f576ab21f5eab988df3094d501249f36eb6ef65a324f813942e360e62d44a0e
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper/idle02.fbx.meta
+  checksum: 1e8570641af238a63a8a9290779055e4aac5a0f2b1bedd34847eefa236d2bef1
+- filename: Assets/FourEvilDragonsHP/Animations/DragonSoulEater/Take Off.fbx.meta
+  checksum: 338212f26892e8b146f932f25de6640ddaeadfc2a8c9887255a4a365d4e317c0
+- filename: Assets/FourEvilDragonsHP/Materials/Stage.mat.meta
+  checksum: 1488ce530cf3a7b10ef871d1f838a5ca5dbbbbfc3807d2db71ac8cc9f2366c18
+- filename: Assets/FourEvilDragonsHP/Mesh/DragonTheNightmareMesh.fbx.meta
+  checksum: c2487f11d56e5a5f0ffecee4dcad0b802cdbcf6982adb252ba4531a3752555a1
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper/takeOff.fbx.meta
+  checksum: d16023cc73e82f110c9a84f711247ed63983369dbffd2f473b142a6658517f4a
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonNightmare.meta
+  checksum: 9b28d4af60d1046144fe013424726d9d81a74f125a32aa22896b732b8bbd990e
+- filename: Assets/FourEvilDragonsHP/Mesh/DragonUsurperMesh.fbx.meta
+  checksum: 8d3875f27aa1e77d68d24b561285b6d19aea2622e08f03c82a5a80065ea03c82
+- filename: Assets/FourEvilDragonsHP/Mesh/Stage.fbx.meta
+  checksum: 5ba98d37e5970791836a06fdbcfb242883aa26ec0936ca78704c092553109175
+- filename: Assets/FourEvilDragonsHP/Mesh/DragonSoulEaterMesh.fbx.meta
+  checksum: 5807577e2a7c3082e9554c8cc31a0e5f36cce5d80f8515580c8b80a5b2ca511b
+- filename: Assets/FourEvilDragonsHP/Texture/DragonNightmare/BlueHP.png.meta
+  checksum: 1f00d301ee3127128d118022736eb73d598fe706b79ed1d9ca438781d432015a
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper/FlyForward.fbx.meta
+  checksum: 624f8b213bf69eea598fea57c552a8b761e735b9e388695d14a1f40e55bb594b
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonUsurper/Red.prefab.meta
+  checksum: c28ecafbc4b1041afc9d0792a476e08937ec47cab239d83dcf8440362c35b662
+- filename: Assets/FourEvilDragonsHP/Mesh.meta
+  checksum: 6bed6158644190d0cd6dcb4fb2d3b2291c580aa617e9fe319e6ddfb44c81a35d
+- filename: Assets/FourEvilDragonsHP/Scene.meta
+  checksum: 75270414cffe49785c661233b5f30489fc9209961bb9bf07d8589f13848eef1d
+- filename: Assets/FourEvilDragonsHP/Scene/MainScene.unity.meta
+  checksum: 9d44b1d8036bff180f5a90d076fb932458aed03603722eda6e4a3cc4a52b2973
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonTerrorBringer.meta
+  checksum: cc979fce8777ba6bdbf2c27ab50a2034160a47b9099a0812a769fca617190919
+- filename: Assets/FourEvilDragonsHP/Mesh/DragonTerrorBringerMesh.fbx.meta
+  checksum: 48b02543764cbcb0be5176af972bad5986d4bebd3d9da9869108d1620263ba72
+- filename: Assets/FourEvilDragonsHP/Materials/DragonUsurper/GreenHP.mat.meta
+  checksum: 316bbe09a071c76dcba835fee6b0869ff47f3e18d3c34dfe3912d00edb61efbc
+- filename: Assets/FourEvilDragonsHP/Animations/DragonUsurper/Sleep.fbx.meta
+  checksum: 7b6b5f030d5bdd515ba103378d4f6628877917938c0d418e6dffac3acf8563d8
+- filename: Assets/FourEvilDragonsHP/Materials/DragonNightmare/GreenHP.mat.meta
+  checksum: a7ac86bf9e5e91d6f27073e8337e2ba2a7402bab01d1de54e95866ce72a9c25b
+- filename: Assets/FourEvilDragonsHP/Scene/MainScene.unity
+  checksum: c86ecadd8e171773bbd6bb0ffbfbf94ab7e7a22a529d8386465fc002aa0941ae
+- filename: Assets/FourEvilDragonsHP/Materials/DragonNightmare.meta
+  checksum: 2e32bd88b35be3617cdb26bcda5b98ea23f97c9a81eaca411e13ee3f0000004b
+- filename: Assets/FourEvilDragonsHP/Materials/DragonNightmare/AlbinoHP.mat
+  checksum: 3804c4701849f122c409a8997a28f43655d4bf8e36769b20acd41069f0c0a49d
+- filename: Assets/Materials/ImageMatt.mat
+  checksum: e35910fa0dfac05f2be54e796855e1411dec9c26caee08f4ad2034d8068eda77
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonSoulEater/Blue.prefab.meta
+  checksum: b774aa6273e89126752dc214436acb976dc8805ded292ecb552678563d890633
+- filename: Assets/FourEvilDragonsHP/Materials.meta
+  checksum: 2813763dd330a89aa9d9a8c6780183af844a4552d9e1218aac72958c034e395e
+- filename: Assets/FourEvilDragonsHP/Texture/DragonNightmare/DarkblueHP.png.meta
+  checksum: bd4781ffafa451d8468e0b64d688a13e382b52a19e39839f46c9952345b8f555
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonUsurper/Red.prefab
+  checksum: 72b8caadcd6e293fad12b912f9ec4bd89162a5dc9679077f0900befa17149168
+- filename: Assets/FourEvilDragonsHP/Scene/NightmareScene.unity
+  checksum: 76d470924665c29493faaf2fad3b46b58c0985d5087e49d10df5a5216134b913
+- filename: Assets/FourEvilDragonsHP/Scene/NightmareScene.unity.meta
+  checksum: 8841e301653dd4f7a319e092d7426a514c45b42813fd0cd5cb2d37f35c107762
+- filename: Assets/FourEvilDragonsHP/Texture/DragonNightmare/GreenHP.png.meta
+  checksum: 4f128ca95f4e6c63ad56e821f67122a236e0035a13f2c528e4f0def3bf8d3364
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonNightmare/DarkBlue.prefab.meta
+  checksum: 8da39490b78a8716108ce01609e74e8b4b0a703c85e2e3ca42b2aba96fb020bf
+- filename: Assets/FourEvilDragonsHP/Animators/NightmareCTRL.controller.meta
+  checksum: 638f56fe1fa11e683e92f59c867fa6c677a92a8fab16721a5ab848849a6d00ff
+- filename: Assets/FourEvilDragonsHP/Materials/DragonSoulEater.meta
+  checksum: 89ac8cb00cac36d1aa5aeaa3ffa41e1c753f310629f91d26f61cd845bff15d7c
+- filename: Assets/FourEvilDragonsHP/Animators/TerrorbringerCTRL.controller
+  checksum: 5df77b2290b0c65806af32666126fb1bab28be6060b8da5ed699e91120fe1093
+- filename: Assets/FourEvilDragonsHP/Animators/TerrorbringerCTRL.controller.meta
+  checksum: e1f8f268c62500928eaa63e0427313cd6c16c6dbda9b3f4bc3c899c2a26d47cf
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonNightmare/DarkBlue.prefab
+  checksum: 99564802c4211835f308da952aea1500e01de4f4ef6119ae00cebc35f094db14
+- filename: Assets/FourEvilDragonsHP/Animators/NightmareCTRL.controller
+  checksum: d486e212b40fbcae7d5c607e9f4a237436565fc7a80f6af2379a173dd8c4a7f0
+- filename: Assets/FourEvilDragonsHP/Scene/SoulEaterScene.unity
+  checksum: e0248efc2ee03da14682f7791604952b041db0592b61c76a97268afb95624e01
+- filename: Assets/FourEvilDragonsHP/Scene/SoulEaterScene.unity.meta
+  checksum: b1530c82cedc8e89ff1eb947ae7fbbc7580bb095694b7a2889d70fb6e7a566e0
+- filename: Assets/FourEvilDragonsHP/Materials/DragonSoulEater/BlueHP.mat
+  checksum: 4585eb52acc3cbed731bc0290a44f9fb3a09cd7d3f10597a89ef8185d6c3c9ee
+- filename: Assets/FourEvilDragonsHP/Animators/SouleaterCTRL.controller
+  checksum: 8f0f0380ca8f8714fdb58c0ecdcfb55244c27bef07040e15b35faed27b2b81c1
+- filename: Assets/FourEvilDragonsHP/Materials/DragonSoulEater/BlueHP.mat.meta
+  checksum: af03ca78928a690eef87544081444570e4000b6267956129a56a16f712dadf8d
+- filename: Assets/FourEvilDragonsHP/Materials/DragonNightmare/AlbinoHP.mat.meta
+  checksum: 5f777a152da05ba63fe4efd560df184b762a90d970bd33c67abe2aa40f3a6879
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonNightmare/Green.prefab.meta
+  checksum: d4102353944c1c1586282085c666e31417debf944f0449226e7375e39c4d99df
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonSoulEater.meta
+  checksum: 1efbda3f302fb61650400a49bbd64f2e8518726bee32c055a0e0ab3859f0dde6
+- filename: Assets/FourEvilDragonsHP/Materials/DragonNightmare/BlueHP.mat
+  checksum: 7d1cb36aee95c9a03ff347413fb8e64cbda973d21422d585c8d34196833c4ad5
+- filename: Assets/FourEvilDragonsHP/Materials/DragonNightmare/BlueHP.mat.meta
+  checksum: a219e127f7941d796b08aa9bcc4acf5c8dfa0f3f1be73bb09b0dae6a5a0748ab
+- filename: Assets/FourEvilDragonsHP/Texture/DragonSoulEater.meta
+  checksum: 05785ea2d628bd363a25e01f97cf64b4a61b394aeece045f7e1b5f64d5705562
+- filename: Assets/FourEvilDragonsHP/Materials/DragonNightmare/DarkBlueHP.mat
+  checksum: 038a92e24c0faa7c6672cae4a6b0e69d19263a5590dddd6c27361f66420cce3d
+- filename: Assets/FourEvilDragonsHP/Animators/UsurperCTRL.controller
+  checksum: b001b4a8b04e4db24850c43e7e719cc7f2e384bef68806f8d9d351d856748c7d
+- filename: Assets/FourEvilDragonsHP/Texture/DragonSoulEater/BlueHP.png.meta
+  checksum: e54225ea3358c9003ea823f9d07df77fb44e409d91a3c91cbaa828c4b29ec472
+- filename: Assets/FourEvilDragonsHP/Scene/TerrorBringerScene.unity.meta
+  checksum: a0e259942b6cfec886a6772327264ec3d3e7a5d74a29150aa301b3b7c89c80c1
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonNightmare/Green.prefab
+  checksum: da7c684a3bf8fda6b92da761b35d15851ab9ab2453a648ad84c8ecebc88d69b8
+- filename: Assets/FourEvilDragonsHP/Texture/DragonSoulEater/GreenHP.png.meta
+  checksum: 5fb0e4f3f04e1c68cbb2e60141716ab5c0c96846c0ed82c8d189d3bb46356754
+- filename: Assets/FourEvilDragonsHP/Scene/TerrorBringerScene.unity
+  checksum: e6559ed78eabc6d87f8cb9283cf86a180ae94f1463e22d71bce907f23a3b6d77
+- filename: Assets/FourEvilDragonsHP/Texture/DragonSoulEater/GreyHP.png.meta
+  checksum: 37555a29c1b48cbdf528b28923f0437fd72979f82807212d7355009d2b038d4c
+- filename: Assets/FourEvilDragonsHP/Scene/UsurperScene.unity.meta
+  checksum: 23c4b248ec3490cc928326f98d6e23207c740a207517d15955b1c6b3f39e61e3
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonSoulEater/Blue.prefab
+  checksum: a68355e19a3bdf5126b3e1f950559854e1094851f18c24bd66a20f99362c07e4
+- filename: Assets/FourEvilDragonsHP/Materials/DragonUsurper/BlueHP.mat
+  checksum: 56fa74b5afd24dde5824fd425ac7965c38d75020f3c259e4a954e6b8b814ac57
+- filename: Assets/FourEvilDragonsHP/Scene/UsurperScene.unity
+  checksum: 528706681d600785d7eb7c1f8373fea1160a9dad93829c087eeddbc5942335c5
+- filename: Assets/FourEvilDragonsHP/Materials/DragonUsurper/PurpleHP.mat.meta
+  checksum: 43962d52586d3139fd0cc9fd5c11a0b7e1c9cceca778a97e0525cf5d0c058109
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonTerrorBringer/Blue.prefab.meta
+  checksum: 6d73384d0312cee89c6ac6cae6735feb4efd1f1c2da8fddb047b604d5bbee141
+- filename: Assets/FourEvilDragonsHP/Materials/DragonUsurper/RedHP.mat
+  checksum: bf308113b081a9cffd8affd805a46559eaff85a6f28909faa79ce750e6d87595
+- filename: Assets/FourEvilDragonsHP/Materials/DragonSoulEater/GreenHP.mat
+  checksum: 426c038298683d3ee2f10b5a68f79aa9b6d637d0d1606f93aa2513c78fadce62
+- filename: Assets/FourEvilDragonsHP/Materials/DragonUsurper/RedHP.mat.meta
+  checksum: 83d837b4e7e4f197334804f1e4e62b9d9c167f1303205a442ca063ad344ad540
+- filename: Assets/FourEvilDragonsHP/Materials/DragonSoulEater/GreenHP.mat.meta
+  checksum: 7e168494ba168e11e011d19ff27b80be16dab5c7588d05d7b2a43169b3fdd1c6
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonNightmare/Blue.prefab
+  checksum: 82bd31261e8a9a209fa513d1685d3e04043bcad82f09c6221348949c2682b863
+- filename: Assets/FourEvilDragonsHP/Materials/DragonSoulEater/GreyHP.mat
+  checksum: 0958274ff7d3a637567903b11f6ce9222f92261f33abccd4f87a3b83bb0e2831
+- filename: Assets/FourEvilDragonsHP/Materials/DragonSoulEater/GreyHP.mat.meta
+  checksum: de771e1cf751f231499b7e56aeb807511db9490c9ce729c5a9ad8b8966bf4a6b
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonTerrorBringer/Blue.prefab
+  checksum: b59daa483a786e5a4a17a73caedf10c8e5c70ec1ab485436104f52ac074b26cb
+- filename: Assets/FourEvilDragonsHP/Texture/DragonSoulEater/RedHP.png.meta
+  checksum: f749d649d8ffe01669b59c77ae268df9664c33764f5a3732478bfd38b65dfeeb
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonTerrorBringer/Green.prefab
+  checksum: 27193bd77df89aba4afaad27daaa3c7723fde8ef6eb88893379bf800448f95fb
+- filename: Assets/FourEvilDragonsHP/Texture/DragonTerrorBringer.meta
+  checksum: 89e437005def70bd26d14a6458f19a25f5d95b41de12f2001603331dd70a732f
+- filename: Assets/FourEvilDragonsHP/Texture/DragonTerrorBringer/BlueHP.png.meta
+  checksum: b3c459e5d61c0713fc83ec054cdfd89a2df4d0617274837364934571921e9f2d
+- filename: Assets/FourEvilDragonsHP/Texture/DragonTerrorBringer/GreenHP.png.meta
+  checksum: cca46b33782a57a406d8aa961dd0e5e4ae2d55f46a509d2e49c83bbeab906bb9
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonNightmare/Albino.prefab
+  checksum: c5fe7cb04fbeb5f2d5e46803da880d091ec80ad96b70c99db8e5ce426a5372e7
+- filename: Assets/FourEvilDragonsHP/Materials/DragonSoulEater/RedHP.mat
+  checksum: 47bb578d4f1785a57caee429687e06e1be2e5dff17ff6dc11a0e52c02809486f
+- filename: Assets/FourEvilDragonsHP/Materials/DragonSoulEater/RedHP.mat.meta
+  checksum: 64d6739ac6827befd6e05913135c5cf64487c22e487cf2bd688b63bd0312eb01
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonSoulEater/Grey.prefab
+  checksum: bfe95337cdba0dc3fd6f82918aba4fa5349b98c349c06dae3917f3b4db713939
+- filename: Assets/FourEvilDragonsHP/Texture/DragonTerrorBringer/RedHP.png.meta
+  checksum: 6cd5e8f4d69aea4f64517b4f18e9c72d19732c99b1226c0197a2a77ec4a2adf9
+- filename: Assets/FourEvilDragonsHP/Texture/DragonTerrorBringer/purpleHP.png.meta
+  checksum: 95b62d4b0db46e81c4768a97d70de8434936229ec0aa12f3dd4321a644b886b7
+- filename: Assets/FourEvilDragonsHP/Texture/DragonUsurper.meta
+  checksum: 69aff9b45048fc22dc5dd7c6413d648ef846bd473b05bda0bbaf912834b3d8f4
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonSoulEater/Green.prefab
+  checksum: e0fd578e1596d7e5fc6ef672b917b9b49d4550b2b2131f7c9fe9d5555c21eb75
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonTerrorBringer/Purple.prefab.meta
+  checksum: 9a5ffca7d977e3d51365d9157115d9aab957a79e1399cdcdb2ecbcac8bfd24f2
+- filename: Assets/FourEvilDragonsHP/Materials/DragonTerrorBringer.meta
+  checksum: d683209843e6c667fc1cc3d612f00608bbfe3ee541ee191a472bef2d8f3611f3
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonSoulEater/Green.prefab.meta
+  checksum: b5215469f1e5d60107fb95e6f87906b05a1516267d4c7aa7ddcd78b60d79631b
+- filename: Assets/FourEvilDragonsHP/Materials/DragonTerrorBringer/BlueHP.mat
+  checksum: 4941dca78a1947dc4f97f666bdf5a1338e48a74804347982d73c827acdb32033
+- filename: Assets/FourEvilDragonsHP/Animators/UsurperCTRL.controller.meta
+  checksum: d092e40eae29132ad17816f37ee75f44e4a1d3d606fdf0699f60b0b55cd751c0
+- filename: Assets/FourEvilDragonsHP/Texture/DragonUsurper/BlueHP.png.meta
+  checksum: 42398dd65a583c8e74c4174fc83bcfd8235456e8122f3017043c573689f5319d
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonTerrorBringer/Red.prefab.meta
+  checksum: 9d82912d2215a6eb8957a14125d4ed35c0f66e4ce467a6bc2738aae909bd8aa2
+- filename: Assets/FourEvilDragonsHP/Materials/DragonTerrorBringer/BlueHP.mat.meta
+  checksum: 53e42355f749fff64d98b037bd8b87416e602d5c9a7b86df7f07ae781c819f0d
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonSoulEater/Grey.prefab.meta
+  checksum: eb656c1b6de69d101524228e7948c2157f11be554963188c3a2dd8f190947841
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonUsurper.meta
+  checksum: a849884b7eab3ae4da596790101198a04b09b51149a176b27515b300af113564
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonTerrorBringer/Purple.prefab
+  checksum: 69c5d2af152cbf610b1875d6a813b73f0ef7456089e1773782ad9b01c39c9f52
+- filename: Assets/FourEvilDragonsHP/Materials/DragonTerrorBringer/GreenHP.mat
+  checksum: 71f0c1083ba1a5febd9ba0725d22f10d8dfdd78bc89edbfb66d79417ce43af3f
+- filename: Assets/FourEvilDragonsHP/Materials/DragonNightmare/GreenHP.mat
+  checksum: 688f33beb5a8630fc6b18ac36fcddd7437c288bff0a5e5a9e1f20f86262c0a92
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonUsurper/Blue.prefab
+  checksum: d07b0c4bdde93d33360abedda884fc08af671ac9d3a0f815c36d84f47232906c
+- filename: Assets/FourEvilDragonsHP/Materials/DragonTerrorBringer/GreenHP.mat.meta
+  checksum: cdd1dfdb6ca5a50482ad254074d74a319294b583fcdff1448e4c21db3c35cc73
+- filename: Assets/FourEvilDragonsHP/Texture.meta
+  checksum: c1546c9fbecec56b2bb4b4948349eb47f0368bf1320db352975b8b7656c873a9
+- filename: Assets/FourEvilDragonsHP/Materials/DragonTerrorBringer/PurpleHP.mat
+  checksum: 0d6b233b08a95ac7cacfe6d537469ea2fc174cc7e6a98d33722688f9d2240bb4
+- filename: Assets/FourEvilDragonsHP/Materials/DragonNightmare/DarkBlueHP.mat.meta
+  checksum: 8a260adc9d63a6ebb7f1e236edcffcffdad9c9d1e981c519aabebf2f3f2be387
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonSoulEater/Red.prefab
+  checksum: 6d0ad3c73833ae60b775d874885a7c5e652da0d89def61d30698a2b3ae0da88c
+- filename: Assets/Materials/ImageMatt.mat.meta
+  checksum: d7f36055a8dd0ab458f4e38fe331ad2c04e889bbe25ef177b0cb792e1b870683
+- filename: Assets/FourEvilDragonsHP/Texture/DragonNightmare.meta
+  checksum: 7c67c4e4d7661d766232ddb507d06122ccdf2d5ba4b93f135e27a564615e609a
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonUsurper/Green.prefab.meta
+  checksum: caa9aa675667c5f8943b169522559ba34374a3a7861c5c22b11f300e2a578e81
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonTerrorBringer/Red.prefab
+  checksum: fddd8236cee73d60f6bf63d998255f73e44f5dba29d30a123bdc1257be6ab8d9
+- filename: Assets/FourEvilDragonsHP/Texture/DragonNightmare/AlbinoHP.png.meta
+  checksum: 24954a9adf0a50720f56fafe762dd6d1140fbdb115595b6a811c97d977ba7217
+- filename: Assets/FourEvilDragonsHP/Materials/DragonTerrorBringer/PurpleHP.mat.meta
+  checksum: 1b9d2499a84ec2610ca25fa66f44ed40d88c9b204ec5fc5f5a8e2317dd81aab5
+- filename: Assets/Image Libraries/ReferenceImageLibrary.asset
+  checksum: 343facf3857c5325bbcbc46c7f4af0467a81de7289370e0f3e8f8da8dc89d20d
+- filename: Assets/Materials/SpacesTown_Main.mat
+  checksum: 6d9afbd3636465b43b98fbe8eb5a662c475ed95376317b1889f75c0a849db1e4
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonUsurper/Blue.prefab.meta
+  checksum: 5fda8870c77acfda34593526c70c7e1efc7dc9c1792ec33ccb2e9cb42239e574
+- filename: Assets/FourEvilDragonsHP/Texture/DragonUsurper/GreenHP.png.meta
+  checksum: 6213c26d1bb1f1289b44787ffd200a7d273eedc42189dd400a1644c84b681634
+- filename: Assets/Materials.meta
+  checksum: eb61a395283178ccea1a36c924677f1b7ed074acf3c5fb8474ae08b10ea394d3
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonNightmare/Blue.prefab.meta
+  checksum: f6d77c906e9d7ceb3ef548ad3cea9ec5f344ae619adaf0861acd6eea4739585a
+- filename: Assets/Materials/SpacesTown_Main.mat.meta
+  checksum: 2b6acb4829c1f41425536ecfd262656688644ca4985158d069e681ab7228ce54
+- filename: Assets/Materials/Stamp Material.mat
+  checksum: 8326c46ab67eb4699f5e54d6f5544a583dfca136bd028f744704ada87a732252
+- filename: Assets/Image Libraries/ReferenceImageLibrary.asset.meta
+  checksum: b0f79b45790154ccabe709d9de7f2ced8fcdebcdabc1a1b0864655d29e0c8176
+- filename: Assets/Materials/Food.mat
+  checksum: e73cc348105dc7c86fac791dbc17fa9f80c81c19041fa69aa225eca5325a05e2
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonSoulEater/Red.prefab.meta
+  checksum: e78c7f2846d53d6a3c5cd5043e6ed0162624e55f6a2451c0d7a88d2cb6f8daf5
+- filename: Assets/FourEvilDragonsHP/Texture/DragonUsurper/PurpleHP.png.meta
+  checksum: 52b33dc2087eada3dcd8bc7467aba2f1d338a8448c04bfb145dc697090d01148
+- filename: Assets/Materials/Food.mat.meta
+  checksum: d20d2daf20b2fa43817809d0ed07ef08cbc06a0834ff8c4911ce53a863fad0cd
+- filename: Assets/Materials/Stamp Material.mat.meta
+  checksum: de8533bfee48cf691895e037fc4f0f3c5443059a71afe8fea4bc0d168eea0dd6
+- filename: Assets/Materials/StampPoster material.mat
+  checksum: 1c08b28a0b5ca0f98348f79ed6c77ad460c4a56448c0711fb7a98c0286ccadad
+- filename: Assets/Image Libraries.meta
+  checksum: a5eabf96e821a5b56423e65ccf89df01cb101aa9bf869da93bef374ef0c39401
+- filename: Assets/Materials/StampPoster material.mat.meta
+  checksum: a57a3166ab458fde58f4caef3faf42d46666e89d0d05e7e71c06a0548fc41966
+- filename: Assets/FourEvilDragonsHP/Animators/SouleaterCTRL.controller.meta
+  checksum: e70ce841011bbdafe12b18a72fb9ca28e4f370804346498a15941a8b2d8f3f3f
+- filename: Assets/Plugins.meta
+  checksum: d353d6e77bffd3f3e715056790db679fe9b065ed359ca405fd33b4cdb38d7307
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonTerrorBringer/Green.prefab.meta
+  checksum: 8bb1755fc35e56501581e154e5c6c1c47cb900013e4aa373da5fcf2f990aa646
+- filename: Assets/Plugins/Lumin.meta
+  checksum: 946df892f07590f016d003bc0c3604a9f0b06b49be9340fe2f348463beb4c60e
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonUsurper/Purple.prefab.meta
+  checksum: c1b0a04b85d15167ad2cf240cdd321de6564fc8cd01f55252e49d14e76b4cc33
+- filename: Assets/XR/Settings/AR Core Settings.asset
+  checksum: a5443a18724d27b63a7dfa7ac36ceea084e2099be562e147114ec0d685aef507
+- filename: Assets/XR/Settings/AR Core Loader Settings.asset.meta
+  checksum: d009087b184be8a110e620ba002c94b75707c28034033a1d6232f5c1b1785be2
+- filename: Assets/XR/Settings/AR Core Settings.asset.meta
+  checksum: d602ccd0496092dc88de7fbeb7bfca48ddae29ea7f393a84eab82a3350a2edf5
+- filename: Assets/Scripts/TrackedImageActionController.cs.meta
+  checksum: 1cbcd660ff4c289d0fbbb8cb4f700f3de9cdb3f1ef63771a0244f8225cd80962
+- filename: Assets/XR/Settings/AR Kit Loader Settings.asset
+  checksum: e29d4f41e64362875a2a88af5dc74330ef97ee43891e667f740182569d19430b
+- filename: Assets/Textures/Stamp.jpeg.meta
+  checksum: ac74d2091b2ccba1ba9f45b8a83f961e3db0be68b8302cbc71b6386d74d2174b
+- filename: ProjectSettings/EditorBuildSettings.asset
+  checksum: 677c4102b9b9826f9398e9faf5e78bd09dd057f1c954da6eaf85e65245d68784
+- filename: Assets/Scripts/TrackedImageActionManager.cs.meta
+  checksum: 56b461c08e59faaa1c1a56c0fa49f15644e4cfec3733a6211e231cb5cf0a2944
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonUsurper/Green.prefab
+  checksum: fe0bf366802c76278eab8499ada81693a66a537d4e2d9562f155874c12c56107
+- filename: Assets/XR/Loaders/Open XR Loader No Pre Init.asset
+  checksum: 94b0514e23bb74656c1ca41d6c5a394c704b954cba837af45412569be938b2a6
+- filename: Assets/XR/Loaders.meta
+  checksum: 19eeb54f3683acf9370ce137c8704f27815f704d39f8e01a679c26bd3d4e413a
+- filename: Assets/XR/Settings/AR Kit Settings.asset
+  checksum: c463fcb1683adb0516df0219df56ab4a6ec64e702529e9fa9454f9126e1b800b
+- filename: Assets/Textures/Earth.png.meta
+  checksum: c531f3c27d5507bef2a86e066dfa263cb00039574366f97aef5f5e012108fac6
+- filename: Assets/XR/Loaders/AR Core Loader.asset
+  checksum: 49293dd9c8304adbcad4757350756d7d7958827f01764470c9ac3b870484c1f4
+- filename: Assets/XR.meta
+  checksum: 59b94418c02747e3012ee093fc76d60fe381238e5d31c70a85b601226e83f5c1
+- filename: Assets/FourEvilDragonsHP/Texture/DragonUsurper/RedHP.png.meta
+  checksum: 9a3ea251433eb300873a11a5ec232d759543f6a88ba6da955d213cd03e169c7f
+- filename: Assets/XR/Loaders/Open XR Loader No Pre Init.asset.meta
+  checksum: 160852a1fa2723765d54fb2167d4f5002dff6f1ab7d24c5c77c7c921768cec1f
+- filename: Assets/XR/Loaders/Open XR Loader.asset
+  checksum: c407ddb6ae06690c74bc04da9717392e2a4e88761eac200342260e1172a91f3b
+- filename: Assets/Textures/StampPoster.png.meta
+  checksum: c6d207d6473115b97f0a1db40119c90a2839b6279f3571444b1980415a80009c
+- filename: Assets/FourEvilDragonsHP/Prefab/DragonUsurper/Purple.prefab
+  checksum: 0166454b0b0c75d32b868f086d1195941e69947ec12bec7d17440d98a1f99507
+- filename: Assets/XR/Loaders/Open XR Loader.asset.meta
+  checksum: c10dc3b66a110f5f4780fe194ffbdbfa69fccb20fb71782daacc9306c0651178
+- filename: Assets/XR/Settings/AR Core Loader Settings.asset
+  checksum: f8f17059709b0aeace54726f7446fe3213146832c527541d33b9f867a522bef7
+- filename: Assets/XR/Settings.meta
+  checksum: 38744b9b1b652b2c61d563b8a4031d4b3fb088f7a9f055bb732ce95cef9d1576
+- filename: Assets/Textures/Food.jpeg.meta
+  checksum: a9116c1bedc74264d149cd9c61d0ec36f62f2e186067b04ea16c941431aab61a
+- filename: Assets/Textures/SpacesTown_Albedo.png.meta
+  checksum: 8f43becd4e17d921e3cdb3effd9c1f2fde3386b27f66821526f53ed184b3c630
+- filename: Assets/Prefabs/PrefabInstatiater.prefab
+  checksum: 8b251a51688b89aaae809fd7f4eb1c2e2d0fc47b9fcc4f8ee62f4d050adc74bd
+- filename: Assets/Textures.meta
+  checksum: 17344697fd4d8fef088266e82a3e79d124fbc257e2114b089193e5edb356f7c1
+- filename: Assets/Plugins/Lumin/MagicLeapManifestSettings.asset.meta
+  checksum: daf82b269bb9d564769a04083fd6049aa791b86bc614b7e52b0c0698f807bd99
+- filename: Assets/XR/Loaders/AR Core Loader.asset.meta
+  checksum: 18fe22d21d8c4c5f2191c84d3e7adb01d231567faacc2b7ea09c047c3b65b135
+- filename: Assets/XR/Loaders/AR Kit Loader.asset
+  checksum: f4c02bf79d2ea77b20bb082609a18a7b0450d59ad32fde9a156f432a4b22d9a0
+- filename: Assets/Prefabs.meta
+  checksum: 8d86153cded389fadf4d079de6efabc3d7b7040b68c0e23a811ff88ac3f3cb4a
+- filename: Assets/Prefabs/PrefabInstatiater.prefab.meta
+  checksum: 609f48fcf8d205d2193f959d8635186bfe492d05a3aa98dbe5467f99828ed43b
+- filename: Assets/XR/Loaders/AR Kit Loader.asset.meta
+  checksum: 19a9e1463d5d521da661f7194b64fad7e5d7d62ee646db27134e530e6c21fb78
+- filename: Assets/Prefabs/VideoPrefab.prefab.meta
+  checksum: bd8ab47e390bf7a1c67943d167c8f5208e8e9f48b92f77b4f110c3a29a976978
+- filename: Assets/Samples.meta
+  checksum: a40550e12c9e8cc532b8007a948b88ec4f2a555b3b6fe870ee9bbe6b9991c257
+- filename: Assets/Prefabs/VideoPrefab.prefab
+  checksum: 09a47165007c10f82d0be7f8963349176e3113cd09fcc349b76b48fee90b071d
+- filename: Assets/Prefabs/AudioPrefab.prefab.meta
+  checksum: b84fc40973db2a41d4557565dfb47a85659decb4808c240a97294aa8e8ea4180
+- filename: Assets/Scenes/DecoAR.unity
+  checksum: 3ffb10a45bdfd8cbc16de46b1f0eaa5694cf438345f8be609f8ede6b42f7829a
+- filename: Assets/Prefabs/AudioPrefab.prefab
+  checksum: 23bc7d21f2b9e8ab4c696c82fcb6ad07051638bc9bc88e2b4f8ba06c55575712
+- filename: Assets/Prefabs/Augmentation Spaces Town.prefab
+  checksum: cbc5d3dea1b4112d96e628dbf76ec810ccf0115cbe8ed3ac5c2857a59ec2adf6
+- filename: Assets/Scripts/ImageTracker.cs.meta
+  checksum: e1c7b8baec6f727046a19b5d7685558cb387d4115458dd007e0f7c35572b3172
+- filename: Assets/Textures/bob.mp4.meta
+  checksum: 4ce15b0a758ce05585f33e6a769054db2d285f4890c9ad01763d5daccf49ff62
+- filename: Assets/Plugins/Lumin/MagicLeapManifestSettings.asset
+  checksum: 993a2139378de7faf25a29a4f6457fbefb510043963d7e2eed2a427dabf6322a
+- filename: Assets/XR/Settings/AR Kit Settings.asset.meta
+  checksum: 7273cf44e85967bc1a4707d0defbbc24a0694636c55c2d631e7c2efc83d9e677
+- filename: Assets/Scenes.meta
+  checksum: 04f5656cd0580b2c87918dafcd408763c4eeca25697f63582dbfd979b89a84b0
+- filename: Assets/Prefabs/Augmentation Spaces Town.prefab.meta
+  checksum: b8d24eeca8c5a98e755bafa408402b701d7f0f6a8907d0a40a15683c19ba4b54
+- filename: Assets/Scenes/DecoAR.unity.meta
+  checksum: 8eb0d5212c101ad5777302610d9fec7a025f942d61d708583379dacd49386921
+- filename: Assets/XR/Settings/Magic Leap Settings.asset
+  checksum: 502b8fcdc5617a3cbf90525b9533f4d044dcff71471bbbc860fa4135d2303471
+- filename: Assets/Textures/Video Render Texture.renderTexture.meta
+  checksum: 36618432517b6ea65f58ab1ab65523b50604eb7bfee31fe208a9b73889a871c8
+- filename: Assets/XRI/Settings/Resources.meta
+  checksum: 1f1e8c9fada09e0fa82a9d3fbc9a86e4eae40116f2fb21c878f4420ea0bde34d
+- filename: Assets/Scripts.meta
+  checksum: 43e6ebdb736db15692f18e25c79ead0cc8882eab8ed56c49a0e2ae9c5bfffcaa
+- filename: Assets/XR/Settings/Magic Leap Settings.asset.meta
+  checksum: e94ed986ac5201db267b9a2f7db2886f3777646e4f8e9366948dc7ae7d18cbe7
+- filename: Assets/XRI/Settings/Resources/InteractionLayerSettings.asset
+  checksum: c0e77a2873b2664eb030ed902b5763a29693de47ecee90be77d29093383a0c37
+- filename: Assets/Textures/something-about-you-marilyn-ford-135781.mp3.meta
+  checksum: f566fb70a6c34a66a01ed49d49d88d809a2a10e20f41923939318445fb2e781d
+- filename: Assets/Prefabs/Blue Variant.prefab
+  checksum: 3b4a2454b3d1069c08c44fb3849b94cf540d60c50962ba1bcc73a0159c98b41e
+- filename: Assets/XRI/Settings/Resources/InteractionLayerSettings.asset.meta
+  checksum: 408318b38487742915f788eb421361680a57a36a7b427441730f48881a02968a
+- filename: Assets/Prefabs/Blue Variant.prefab.meta
+  checksum: 14e66b03e4c100409bea3e80d5382fa2a628e8848262f01907d51cfba5fc1f95
+- filename: Assets/Prefabs/ImagePrefab.prefab.meta
+  checksum: fc0de924a2209300cbcbcee42fb785bfb741267b85e09f671030553a50379690
+- filename: Assets/XRI/Settings/XRInteractionEditorSettings.asset.meta
+  checksum: b15b5216becb8876949e22e98beff2ab8827e331f215379c8c371f5066e9a698
+- filename: Assets/XR/Settings/Open XR Package Settings.asset
+  checksum: fbd46333af5ceb1c1c1422c6e9507cff971a9259235edf54ca71d938f9a92be1
+- filename: Assets/XR/Settings/Open XR Package Settings.asset.meta
+  checksum: 020ef6a77660e4bf5ca9906c676ea41cea8a9feb18250bc2fa88392e9945f814
+- filename: Assets/XR/Settings/AR Kit Loader Settings.asset.meta
+  checksum: fcf9f9326f25d81275d50e2f108703e04bb346e84b8c5b46cdbdabf3d3df2a0c
+- filename: Assets/XRI/Settings/XRInteractionEditorSettings.asset
+  checksum: 6ff54828da749820f1a434a49bfb2e40f663d8a8e080ff30b79d9ddfa3d7ddf8
+- filename: Assets/Prefabs/ImagePrefab.prefab
+  checksum: cc8bf9a652886e25b6973dd08fe5bbe502de290d43eaa96e1c1d69416d3297a6
+- filename: Assets/XR/Settings/OpenXR Editor Settings.asset
+  checksum: 305753976b729ed2905a692c5949dafbdb93ac4b8c1c099f2bb6e574767c780e
+- filename: Assets/XR/Settings/OpenXR Editor Settings.asset.meta
+  checksum: a7eb913ff2ff853a41a1ee2e91ebe88536c64080774da224fd40be0d2fb198b6
+- filename: Assets/XR/XRGeneralSettings.asset
+  checksum: bc5f7a959d0f75b5e9cfb7b5b8e2a603229333c369cdcaa27667e3448fb43433
+- filename: Assets/XRI/Settings.meta
+  checksum: f650d046c180514862632d0f8ed014ad696063134d8754a6e2de75e5b22812ef
+- filename: Assets/XR/XRGeneralSettings.asset.meta
+  checksum: a754aab9ce76aa8c90880a2c5b7b4429084ce0c83e0cb5e88e5f59065a31199b
+- filename: Assets/XRI.meta
+  checksum: c410e2e818a115c98d75ca51eef7e26e0639b931e7319dcd099af769736d21ab
+- filename: ProjectSettings/ProjectSettings.asset
+  checksum: 156d70c94ac31d14f19d8503d76fdedeaa12263da2bdafd473d7a35a4578cb50
+- filename: Assets/FourEvilDragonsHP/Materials/Stage.mat
+  checksum: f04527df2f287cc67100d19b1641383c6b2eaa26e5b54366038322bd1e910d7c
+- filename: Assets/FourEvilDragonsHP/Materials/Skybox_Mat.mat
+  checksum: 057294b97e1be73b430e9cb46c1d747e97dc6fec58deddf2ecd15270c20f3f05
+- filename: ProjectSettings/Packages/com.unity.learn.iet-framework/Settings.json
+  checksum: 1579d3fdc4a73b51a83b89dc0f8d298e3ae99dbf74d1c0934c48f828b1476592
+version: ""
+
+
+fileignoreconfig:
+- filename: Assets/Scripts/ImageTrackingController.cs.meta
+  checksum: ab8317410fed32fed1a0160421db47d1756f6454a91342026103b9d0d6e857d4
+- filename: Assets/Prefabs/PrefabInstatiater.prefab
+  checksum: e7d497353510b90ee55878941986dd0cbe193233997fd441ab3480d621f0fec7
+- filename: Assets/Scenes/DecoAR.unity
+  checksum: c764f54ab6cf18bc3b604abf8b565e294fa950e2526c0c0ff00bc92e806af271
+- filename: Assets/Image Libraries/ReferenceImageLibrary.asset
+  checksum: d9a84eb27c5fbbceffc9c04d9960bc6b3b2ff05ba4ab9a2fd9e5a041eb3fe75d
+- filename: Assets/Prefabs/Augmentation Spaces Town.prefab
+  checksum: 74181da31ac3cc3034ffa11e005f706948a8744581aad710115138a2bd7e1711
+version: ""
+
+fileignoreconfig:
+- filename: Assets/XR/Settings/Open XR Package Settings.asset
+  checksum: e4da66ca62d159b7607b9883f95d27a4acb35439ace08b425491de700de38252
+version: ""
+
+fileignoreconfig:
+- filename: ProjectSettings/ProjectSettings.asset
+  checksum: 8feebc834998740af4d08c9f5c1f53372b91c8a02d5b987b0779f5856bab5ea9
+- filename: Assets/Prefabs/PrefabInstatiater.prefab
+  checksum: 9cc55b0ca2fd80b730d5fabc3b2c7f449e7d0448e657e536f39f89f6fa921201
+version: ""
+
+fileignoreconfig:
+- filename: Assets/Prefabs/ImagePrefab.prefab.meta
+  checksum: 2d67c8687dd4249b129fe361159fe6748d8ff075e3391fa88498713911776004
+- filename: Assets/Prefabs/ImagePrefab.prefab
+  checksum: e433e7c505eee93adf92d20a8e9739c5e8c6a696245c772ae1bb4fe3d8dafaf7
+- filename: Assets/Prefabs/SpacesTown.prefab.meta
+  checksum: 5700f07893eedeffd891ce90d1968daab0b965ea720cc63bf11cad8720074d1b
+- filename: Assets/Prefabs/SpacesTown.prefab
+  checksum: fad8211b04b213badc6c708b107dce6451d832f64ebb9863683fff9414c10584
+- filename: Assets/Prefabs/PrefabInstatiater.prefab
+  checksum: 5d92d55e6cd21a8d09911fc093ddb641cff3bb3920f07b5752e13f2d474e8004
+- filename: Assets/Scripts/TrackedImageActionManager.ImageAction.cs.meta
+  checksum: 288967eaee25ccaa1dbf937165873c518b47c525559e76848bcc52d2f66ab6ad
+version: ""
+
+fileignoreconfig:
+- filename: Assets/Resources/Prefabs/PrefabInstatiater.prefab
+  checksum: d0285d7bf5e72c3e38a6597998bd15ffd5b707721818334a0818dee7978f8841
+- filename: Assets/Image Library.meta
+  checksum: 66a0c5e93aa075cbe63a3f2e35c1ddd2caeb0662035bf4b8a0832edd03ce98a1
+- filename: Assets/Resources/Prefabs/AudioPrefab.prefab
+  checksum: f172badbffa11b1eebbe7f30e2b168b679f9306fc91b2795d1fd2196f1d9c555
+- filename: Assets/Resources/Prefabs/AudioPrefab.prefab.meta
+  checksum: e7721b295d3c7010e3d825ab567b8f0d5627126af94c6f158994926e80358ffe
+- filename: Assets/Image Library/ReferenceImageLibrary.asset
+  checksum: 45f8988f8131fc20a6ff9749c0f1e79488f209b2663f51f67e7d91afe96e40d9
+- filename: Assets/Image Library/ReferenceImageLibrary.asset.meta
+  checksum: 2824ff88eadb566fa0874bbf4716dc09b54df75f0191db2dfad28e8a3128e524
+- filename: Assets/Resources/Prefabs/ImagePrefab.prefab.meta
+  checksum: ab9e3690570b0549f59cc6d765409da57647adda622d082a429645ea77aaa39e
+- filename: Assets/Resources.meta
+  checksum: 6b4f757cfaea4b4cdb7dcdfa578712a7f8573e262c1231dae0285a2dda5c4cc6
+- filename: Assets/Resources/Prefabs.meta
+  checksum: 7677acdf55893f70ec47fbae4f4f7d5e1ce154391ec5092f5c57cc012a042740
+- filename: Assets/Resources/Prefabs/ImagePrefab.prefab
+  checksum: 6a641acd19ba24a2546849366eb5b8fb2b4e8a78b91c5d61c3fc89f6671fccb1
+- filename: Assets/Resources/Prefabs/PrefabInstatiater.prefab.meta
+  checksum: 9492eb70dbaa1406aca48da653e8d75a331ac801dfceb0af4c7531487f9c8e42
+- filename: Assets/Resources/Prefabs/VideoPrefab.prefab.meta
+  checksum: 9285624a84790a745bba500e151274cc62befd2d0e4119aafd475fced4d18313
+- filename: Assets/Resources/SpacesTown.png.meta
+  checksum: 7e2a5af1e5bc1b31902113015a654f74a8dc3e61d1fc03b4a10e9e792f6a0157
+- filename: Assets/Resources/Prefabs/VideoPrefab.prefab
+  checksum: 8a51c980b7e034084b6cff24251b1065bfb8a921f15db355cda5f0d365338a5b
+- filename: Assets/Scenes/DecoARV2.unity.meta
+  checksum: b424f537beeaef83af19fbd0a4498844384bb86c866ed900a1d77b47987bb5c6
+- filename: Assets/Resources/earth.png.meta
+  checksum: a3f8e2326ccd7cc12b5a071eed3c86f8e75b084b3a6152f03d59def55360890e
+- filename: Assets/Resources/something-about-you-marilyn-ford-135781.mp3.meta
+  checksum: f7141b02337b1db51bbff60bb924fe07a9226f635def82ab319adf66c8f5dd48
+- filename: Assets/Scenes.meta
+  checksum: 256033f5a8f4ccc780d3eb3003e3858caa560f4711fc1bc10b7cd58c54e32150
+- filename: Assets/Resources/Video Render Texture.renderTexture.meta
+  checksum: d525bde5cd1efb46d7c1c798190b75c57de8e486566ab9297cc43bd467ba8b90
+- filename: Assets/Resources/bob.mp4.meta
+  checksum: 21796eef91df31a8fbf6c7df53b24b6e81f385cc29015dfb4c1b54f09154eb4f
+- filename: Assets/XRI/Settings/Resources/InteractionLayerSettings.asset.meta
+  checksum: d2482dd8d053fd28695710137916989de45a65bc25bea5934d2e4a9edb247128
+- filename: Assets/XRI/Settings/Resources/InteractionLayerSettings.asset
+  checksum: c0e77a2873b2664eb030ed902b5763a29693de47ecee90be77d29093383a0c37
+- filename: Assets/XRI/Settings/XRInteractionEditorSettings.asset
+  checksum: 6ff54828da749820f1a434a49bfb2e40f663d8a8e080ff30b79d9ddfa3d7ddf8
+- filename: Assets/Scripts.meta
+  checksum: 4a9dce4bb7927cb730d7472bda9ba624872e114c85f64c22cfcca4e0199fde71
+- filename: Assets/Scenes/DecoARV2.unity
+  checksum: da4ee2c0b3464d174c8ec7371fd05f04faa384ad2e909ecd4e87c82d289ef8a5
+- filename: Assets/XR/Loaders.meta
+  checksum: 068dd5a6fb5b232075eef28438edb1f0e77a2dc7386efd426b151ee702c28c91
+- filename: Assets/XR/Loaders/Open XR Loader.asset
+  checksum: c407ddb6ae06690c74bc04da9717392e2a4e88761eac200342260e1172a91f3b
+- filename: Assets/XR/Settings/OpenXR Package Settings.asset.meta
+  checksum: 7cd5dac71cba37be8cc3f493a6e316028e893e3796dc7443693136a867c5d26a
+- filename: Assets/XRI/Settings/XRInteractionEditorSettings.asset.meta
+  checksum: 489394948dbecfeb7520c9c151297b47b2358f3a81bc8e091cf9f1b073a796eb
+- filename: Assets/XR/XRGeneralSettings.asset
+  checksum: 47d9b67a2eddb35056238e0538ecc15e0c49497739353e2c7dd5d6affe22b227
+- filename: Assets/XRI/Settings.meta
+  checksum: d29b8d66be7ac986a2d291534f53070062515a300bc9615cad28dac50d614327
+- filename: Assets/XR/Loaders/Open XR Loader.asset.meta
+  checksum: 6c3fbe78ae3147f23a4e29d605e90f9eac24209d0db3605d262c8e76210781df
+- filename: Assets/XRI/Settings/Resources.meta
+  checksum: ec4df26cfcabcd393a7fdf06a9856eb1c43f6ac0a70cdf4543f7a777654165a8
+- filename: Assets/XRI.meta
+  checksum: aa9207d1cf06ee4d05eb41a96719b1ef3a687f8a06852c2e7caa91787c4d6e89
+- filename: Assets/XR/XRGeneralSettings.asset.meta
+  checksum: 07863bdafa6fed8a44c2d34dc6db7cd53b1c76058e1251f77eebaa85eb3f5a99
+- filename: Assets/XR/Settings/OpenXR Editor Settings.asset.meta
+  checksum: a05fee814c21c771132b9d2fead31fb61d6776a7ad0e8c1f14645a6210491a65
+- filename: Assets/XR/Settings/OpenXR Editor Settings.asset
+  checksum: 305753976b729ed2905a692c5949dafbdb93ac4b8c1c099f2bb6e574767c780e
+- filename: Assets/XR/Settings.meta
+  checksum: 0e2843d188caf09f37d5f3519977eae9e1e685f43746eb152a26f3dc61d25ffc
+- filename: Assets/Scripts/UIController.cs.meta
+  checksum: 4791fea81f34bdb30f9fc1e6bdcee9479e25929270ce0b28bb5bde281ba72733
+- filename: Assets/Scripts/ImageTracker.cs.meta
+  checksum: 39b947824fa74fc194738da6c5138b1b829adf47c1eca4d620c0e52e9fc75ed5
+- filename: Assets/Scripts/ImageDetails.cs.meta
+  checksum: 7ae4973195cda8beca577c25d8bd4058c7c26edfe1ad0fbf5540017f38e8c97f
+- filename: Assets/XR/Settings/OpenXR Package Settings.asset
+  checksum: ed1f6ef4af9ac89015ad674e0425cb2b78b0d2b72da304ebdf5688cb0e0bc3d4
+- filename: Assets/XR.meta
+  checksum: e253aca19634c76575bd6ecf9731bdf18821e5ee058e7ea07772b75174ec27fd
+- filename: Assets/Scripts/TrackedImageActionManager.cs.meta
+  checksum: 38a8b5b9e5f8e89c4b5dae1ecf14d776712f8c82f1bbf8e105f4942948bb97dd
+- filename: ProjectSettings/EditorBuildSettings.asset
+  checksum: aceba3249fedee2841e204ca1dbf46aad322e61915bc289fbbc459fed3fae32d
+- filename: Assets/Scripts/ImageTrackingController.cs.meta
+  checksum: e8a370178a4d22542e8932fa11f8ecf280214e842efcbf9f82bb8f887bb153c9
+- filename: Assets/Scripts/TrackedImageActionManager.ImageAction.cs.meta
+  checksum: 3cf79c43d52e46968834738afe3dc92de77d5f408ca7c0cb93b1a4fb2cafbdde
+- filename: ProjectSettings/ProjectSettings.asset
+  checksum: 16016964917f4cc10ad94ce2356f4aaed5004a5510ffe529fb5e1956871c8638
+version: ""

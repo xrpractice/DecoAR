@@ -1,15 +1,13 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Linq.Expressions;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Video;
-using Object = UnityEngine.Object;
 
 public partial class TrackedImageActionManager : MonoBehaviour
 {
-    [SerializeField] private int distance;
+    [SerializeField] private int rangeBetweenMultiInstancesInMeters;
     [SerializeField] private List<ImageAction> imagesWithAction;
     private GameObject _instancedPrefab;
     private const string IMAGE_PREFAB_PATH = "Prefabs/ImagePrefab";
@@ -23,12 +21,11 @@ public partial class TrackedImageActionManager : MonoBehaviour
 
     private void OnEnable()
     {
-        Debug.Log("Sai : Prefab instantiated");
         _instancedPrefab = new GameObject();
         StartCoroutine(InstancePrefab());
     }
 
-    private GameObject LoadImage(string sourcePath) 
+    private GameObject LoadImage(string sourcePath)
     {
         var imagePrefab = Resources.Load<GameObject>(IMAGE_PREFAB_PATH);
         var image = Resources.Load<Texture>(sourcePath);
@@ -64,22 +61,13 @@ public partial class TrackedImageActionManager : MonoBehaviour
         var action = actionEntry.action;
         var sourcePath = actionEntry.sourcePath;
 
-        if (action == Action.Audio)
+        return action switch
         {
-            return LoadAudio(sourcePath);
-        }
-        
-        if (action == Action.Image)
-        {
-            return LoadImage(sourcePath);
-        }
-
-        if (action == Action.Video)
-        {
-            return LoadVideo(sourcePath);
-        }
-
-        return Resources.Load<GameObject>(sourcePath);
+            Action.Audio => LoadAudio(sourcePath),
+            Action.Image => LoadImage(sourcePath),
+            Action.Video => LoadVideo(sourcePath),
+            _ => Resources.Load<GameObject>(sourcePath)
+        };
     }
 
     private Quaternion GetViewAngle()
@@ -88,29 +76,29 @@ public partial class TrackedImageActionManager : MonoBehaviour
         return Camera.main.transform.rotation * Quaternion.AngleAxis(180, Vector3.up);
     }
 
+    private bool IsImageTrackable(string imageName)
+    {
+        var isImageTracked = ImageTracker.Instance.IsImageTracked(imageName);
+        var isImageRangeIsClose = ImageTracker.Instance.IsImageRangeIsClose(imageName, rangeBetweenMultiInstancesInMeters);
+
+        return isImageTracked && isImageRangeIsClose;
+    }
+    
+    private void InstancePrefab(string imageName, Vector3 imagePosition)
+    {
+        ImageTracker.Instance.TrackedImages.Add(new ImageDetails(imageName, imagePosition));
+        var actionPrefab = GetPrefabFromActions(imageName);
+        _instancedPrefab = Instantiate(actionPrefab, gameObject.transform.position, GetViewAngle());
+        _instancedPrefab.transform.parent = gameObject.transform;
+    }
+    
     private IEnumerator InstancePrefab()
     {
         yield return new WaitForSeconds(1.5f);
         
         var imageName = ImageTracker.Instance.CurrentImage;
         var imagePosition = ImageTracker.Instance.CurrentImageLocation;
-        // if (ImageTracker.Instance.IsImageTracked(imageName)) yield break;
-        
-        Debug.Log("Sai : " + imageName + " " + imagePosition);
-        
-        var isImageTracked = ImageTracker.Instance.IsImageTracked(imageName);
-        var isImageRangeIsClose = ImageTracker.Instance.isImageRangeIsClose(imageName, distance);
-        Debug.Log("Sai : isImageTracked : " + isImageTracked + " isImageRangeClose : " + isImageRangeIsClose);
-        if (isImageTracked && isImageRangeIsClose)
-        {
-            yield break;
-        }
-        
-        ImageTracker.Instance.TrackedImages.Add(new ImageDetails(imageName, imagePosition));
-        var actionPrefab = GetPrefabFromActions(imageName);
-        
-        // instantiating prefab
-        _instancedPrefab = Instantiate(actionPrefab, gameObject.transform.position, GetViewAngle());
-        _instancedPrefab.transform.parent = gameObject.transform;
+        if (IsImageTrackable(imageName)) yield break;
+        InstancePrefab(imageName, imagePosition);
     }
 }

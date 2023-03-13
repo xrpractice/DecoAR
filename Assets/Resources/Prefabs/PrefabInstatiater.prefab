@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b1ad1295fa14f7793159cce355ea12, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  distance: 2
+  rangeBetweenMultiInstancesInMeters: 2
   imagesWithAction:
   - imageName: SpacesTown
     action: 2
