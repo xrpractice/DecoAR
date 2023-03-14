@@ -23,7 +23,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 16462293286880831251
       m_GuidHigh: 7398524044941403371
-    m_Size: {x: 0.1, y: 0.14145161}
+    m_Size: {x: 0.197, y: 0.27865967}
     m_SpecifySize: 1
     m_Name: SpacesTown
     m_Texture: {fileID: 2800000, guid: 00d46713d086e475eb24eb786bd6ac66, type: 3}
@@ -33,7 +33,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 4910927158751013949
       m_GuidHigh: 17725861887336372619
-    m_Size: {x: 0.1, y: 0.10011124}
+    m_Size: {x: 0.259, y: 0.2592881}
     m_SpecifySize: 1
     m_Name: Earth
     m_Texture: {fileID: 2800000, guid: 4f2c2c3d1e3b44278bd9518c78e9fef5, type: 3}

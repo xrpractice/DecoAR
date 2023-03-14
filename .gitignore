@@ -4,10 +4,9 @@ UserSettings
 obj
 Logs
 InitCodeMarker
-DecoAR.sln
 Assembly-CSharp.csproj
 temp
 Assets/Samples
 *.apk*
 *.sln
-Packages/manifest.json
+Packages/*.tgz

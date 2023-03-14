@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.qualcomm.snapdragon.spaces": "file:SnapdragonSpaces_Package_0_11_1.tgz",
     "com.unity.collab-proxy": "1.17.2",
     "com.unity.feature.development": "1.0.1",
     "com.unity.ide.rider": "3.0.15",
