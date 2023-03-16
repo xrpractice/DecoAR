@@ -67,7 +67,7 @@ NOTE: If you want to upgrade the spaces SDK, then download the latest version of
 - Set the minimum distance between same images.
 - Add images with Action
     - Click on plus icon to define an action to a image.
-    - Add the image name(Should be same as in Resources)
+    - Add the image name(Should be same as in ReferenceImageLibrary)
     - Add the type of action
     - Add the source path of the action(Should be same as in Resources).
     - Source path should be relative from `Resources` folder without any extension.
