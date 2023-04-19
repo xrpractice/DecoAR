@@ -79,4 +79,4 @@ NOTE: If you want to upgrade the spaces SDK, then download the latest version of
 - Do a clean build and install in the phone to run it.
 
 # Demo 
-Check the demo video of image tracking [here](./References/Demo.mp4)
+Check the demo video of image tracking [here](https://youtu.be/_kVGfrx9KbU)
